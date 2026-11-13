@@ -31,3 +31,8 @@ test-results/
 *.sqlite3-wal
 *.sqlite3-shm
 *.sqlite3-journal
+.data/
+.pytest_cache/
+
+# Demo data is tiny and committed so the walkthrough works out of the box.
+!demo/incoming/**/*.zip

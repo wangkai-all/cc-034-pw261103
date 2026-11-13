@@ -1,0 +1,27 @@
+{
+  "package_code": "PKG-2026-001",
+  "zip": "PKG-2026-001.zip",
+  "zip_sha256": "6a4cde3fec8c83653b9c73d26b7cf73146987e2a6dd1d94f4158348b6fd03c89",
+  "files": [
+    {
+      "path": "README.txt",
+      "bytes": 36,
+      "sha256": "963b596fbf4dbea87ab86cd8f747b11b197dc5670ba8764ac13e82c23b6be051"
+    },
+    {
+      "path": "data/orders.csv",
+      "bytes": 1041,
+      "sha256": "f730915c508209d97a377f8dccb65a9caa20315ebd9842a9b642c6e0f9cea8a8"
+    },
+    {
+      "path": "config/settings.json",
+      "bytes": 94,
+      "sha256": "8e323d707d9fe004efeea644d4c92ef60e96fb8262a018c8e22a36984a6fc718"
+    },
+    {
+      "path": "docs/说明.md",
+      "bytes": 89,
+      "sha256": "f4ae9db6910db8461e846316f178fac700f952148538b1033924ea772f8ca582"
+    }
+  ]
+}
